@@ -1,5 +1,4 @@
-# <img width="1001" height="1001" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" />
- Walmart Sales Analytics Dashboard
+# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" /> Walmart Sales Analytics Dashboard
 
 **Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**
 
