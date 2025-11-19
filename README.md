@@ -1,4 +1,4 @@
-# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" /> Walmart Sales Analytics Dashboard
+# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" /> Walmart Sales Analytics Dashboard
 
 **Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**
 
@@ -125,7 +125,7 @@ Walmart-Sales-Analytics-Dashboard/
 ## 📌 How to Use
 
 1. Clone or download this repository  
-2. Open [`Walmart Power BI Analytics Dashboard.pbix`](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart%20Power%20BI%20Analytics%20Dashboard.pbix) in Power BI Desktop  
+2. Open [Walmart Power BI Analytics Dashboard.pbix](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart%20Power%20BI%20Analytics%20Dashboard.pbix) in Power BI Desktop  
 3. Connect the dataset: [Walmart Sales Dataset](Walmart_sales_dataset.csv)  
 4. Explore dashboard pages using interactive slicers, filters, and visuals  
 5. Leverage insights for reporting, presentations, or business decision-making  
